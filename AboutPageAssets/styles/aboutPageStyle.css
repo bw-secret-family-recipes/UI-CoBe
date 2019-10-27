@@ -11,6 +11,8 @@ body {
 	width: 100%;
 	max-width: 1200px;
 }
+
+
 /* Header */
 
 
@@ -19,7 +21,9 @@ header {
 	text-align: 0 auto;
 	
 }
-header .profileLogo .logoPlaceholder {
+
+
+/*header .profileLogo .logoPlaceholder {
 	background-color: #3f043c;
 	width: 1200px;
 	height: 291px;
@@ -71,6 +75,10 @@ header .socialNetworkNavBar .socialNetworkNav {
 header .socialNetworkNavBar .socialNetworkNav img:hover {
 	opacity: 0.5;
 }
+
+
+
+
 /* Main Content sections */
 .mainContent .section1 {
 	display: block;
@@ -152,6 +160,8 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	margin-left: 2%;
 	margin-right: 2%;
 }
+
+
 /* Footer */
 footer .footerDisclaimer {
 	font-family: sans-serif;
@@ -175,6 +185,8 @@ footer .footerNote span {
 	color: rgba(181,178,178,1.00);
 	font-weight: 400;
 }
+
+
 
 /* Media query for Mobile devices*/
 @media only screen and (min-width : 285px) and (max-width : 480px) {
@@ -387,6 +399,8 @@ header .socialNetworkNavBar .socialNetworkNav {
 	height: 48px;
 }
 /* Footer */
+
+
 footer .footerDisclaimer {
 	float: left;
 	margin-left: 3%;
