@@ -82,9 +82,10 @@ h1, h2, h3, h4, h5, h6 {
 .c18 {
   padding-top: 4.777%;
   font-family: Poppins;
+  font-size: 18px;
   color: #3f043c;
-  font-weight: 600;
-  line-height: 2rem;
+  font-weight: 400;
+  line-height: 1.75rem;
   text-align: justify;
   
 }
@@ -92,19 +93,16 @@ h1, h2, h3, h4, h5, h6 {
 .c24 {
   font-family: Poppins;
   color: #3f043c;
-  line-height: 2rem;
+  line-height: 1.85rem;
   text-align: justify;
   font-weight: 500;
 }
 
 .j29 {
   font-family: Poppins;
-  color:  orangered;
-  line-height: 2rem;
+  color: orangered;
   text-align: justify;
   font-weight: BOLD;
-  outline-color: #3f043c;
-  border-color: #3f043c;
 }
 
 
