@@ -1,8 +1,8 @@
 .cards{
     justify-content: center !important;
+    margin-bottom: 1.5rem;
   }
   
-  .company {
-      color: #1038a8 !important ;
-
+.company {
+  color: #1038a8 !important ;
   }
