@@ -1,8 +1,48 @@
-.cards{
-    justify-content: center !important;
-    margin-bottom: 1.5rem;
-  }
-  
+.cards {
+  justify-content: center !important;
+  margin-bottom: 1.5rem;
+}
+
 .company {
   color: #1038a8 !important;
-  }
+}
+
+footer {
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: space-evenly;
+  background: #3f043c;
+  height: 24vh;
+  margin: 0;
+  padding: 1rem;
+  color: white;
+}
+
+
+Address {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+Info {
+  line-height: 1;
+  font-size: .8rem;
+}
+
+ImgBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+Image {
+  width: 300px;
+}
+
+Contact {
+  display: flex;
+  flex-direction: column;
+  font-size: .9rem;
+  padding-top: 3%;
+}
